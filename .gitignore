@@ -86,3 +86,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# JetBrains WebStorm
+**/.idea/workspace.xml
+**/.idea/tasks.xml
