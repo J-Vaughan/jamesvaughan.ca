@@ -1,0 +1,12 @@
+{
+  "name": "James Vaughan's Website",
+  "description": "it's in the name",
+  "keywords": [
+    "james",
+    "vaughan",
+    "personal"
+  ],
+  "website": "jamesvaughan.ca",
+  "repository": "github.com/j-vaughan/jamesvaughan.ca",
+  "image": "heroku/nodejs"
+}
